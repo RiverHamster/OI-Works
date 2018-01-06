@@ -1,0 +1,2 @@
+先用aescape.exe生成所有的.in文件；
+再用allescape.bat生成所有的.out文件。

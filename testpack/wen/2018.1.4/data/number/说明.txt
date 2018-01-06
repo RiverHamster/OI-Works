@@ -1,0 +1,2 @@
+先用anumber.exe生成所有的.in文件；
+再用allnumber.bat生成所有的.out文件。

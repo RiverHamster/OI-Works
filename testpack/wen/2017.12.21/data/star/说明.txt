@@ -1,0 +1,2 @@
+先用astar.exe生成所有的.in文件；
+再用alltar.bat生成所有的.out文件。

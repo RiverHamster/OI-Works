@@ -1,0 +1,10 @@
+escapeall escape0.in escape0.out
+escapeall escape1.in escape1.out
+escapeall escape2.in escape2.out
+escapeall escape3.in escape3.out
+escapeall escape4.in escape4.out
+escapeall escape5.in escape5.out
+escapeall escape6.in escape6.out
+escapeall escape7.in escape7.out
+escapeall escape8.in escape8.out
+escapeall escape9.in escape9.out

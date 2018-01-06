@@ -1,0 +1,10 @@
+moonall moon0.in moon0.out
+moonall moon1.in moon1.out
+moonall moon2.in moon2.out
+moonall moon3.in moon3.out
+moonall moon4.in moon4.out
+moonall moon5.in moon5.out
+moonall moon6.in moon6.out
+moonall moon7.in moon7.out
+moonall moon8.in moon8.out
+moonall moon9.in moon9.out

@@ -1,0 +1,10 @@
+perimeterall perimeter0.in perimeter0.out
+perimeterall perimeter1.in perimeter1.out
+perimeterall perimeter2.in perimeter2.out
+perimeterall perimeter3.in perimeter3.out
+perimeterall perimeter4.in perimeter4.out
+perimeterall perimeter5.in perimeter5.out
+perimeterall perimeter6.in perimeter6.out
+perimeterall perimeter7.in perimeter7.out
+perimeterall perimeter8.in perimeter8.out
+perimeterall perimeter9.in perimeter9.out

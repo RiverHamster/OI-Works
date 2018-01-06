@@ -1,0 +1,10 @@
+sumall sum0.in sum0.out
+sumall sum1.in sum1.out
+sumall sum2.in sum2.out
+sumall sum3.in sum3.out
+sumall sum4.in sum4.out
+sumall sum5.in sum5.out
+sumall sum6.in sum6.out
+sumall sum7.in sum7.out
+sumall sum8.in sum8.out
+sumall sum9.in sum9.out

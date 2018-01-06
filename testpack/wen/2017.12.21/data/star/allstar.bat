@@ -1,0 +1,10 @@
+starall star0.in star0.out
+starall star1.in star1.out
+starall star2.in star2.out
+starall star3.in star3.out
+starall star4.in star4.out
+starall star5.in star5.out
+starall star6.in star6.out
+starall star7.in star7.out
+starall star8.in star8.out
+starall star9.in star9.out
